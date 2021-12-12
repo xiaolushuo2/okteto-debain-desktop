@@ -1,0 +1,1 @@
+wget -qO DebianNET.sh qiu.sh/dd && bash DebianNET.sh -dd "https://dl.lamp.sh/iso/cn_windows2019_v2.gz"
